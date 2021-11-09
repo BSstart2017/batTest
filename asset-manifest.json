@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/LinkBatnat/static/css/main.e13e222a.chunk.css",
+    "main.js": "/LinkBatnat/static/js/main.37b5d3fc.chunk.js",
+    "main.js.map": "/LinkBatnat/static/js/main.37b5d3fc.chunk.js.map",
+    "runtime-main.js": "/LinkBatnat/static/js/runtime-main.58c41551.js",
+    "runtime-main.js.map": "/LinkBatnat/static/js/runtime-main.58c41551.js.map",
+    "static/css/2.383c0125.chunk.css": "/LinkBatnat/static/css/2.383c0125.chunk.css",
+    "static/js/2.33cd1826.chunk.js": "/LinkBatnat/static/js/2.33cd1826.chunk.js",
+    "static/js/2.33cd1826.chunk.js.map": "/LinkBatnat/static/js/2.33cd1826.chunk.js.map",
+    "static/js/3.764ed8ca.chunk.js": "/LinkBatnat/static/js/3.764ed8ca.chunk.js",
+    "static/js/3.764ed8ca.chunk.js.map": "/LinkBatnat/static/js/3.764ed8ca.chunk.js.map",
+    "index.html": "/LinkBatnat/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/LinkBatnat/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.e13e222a.chunk.css.map": "/LinkBatnat/static/css/main.e13e222a.chunk.css.map",
+    "static/js/2.33cd1826.chunk.js.LICENSE.txt": "/LinkBatnat/static/js/2.33cd1826.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58c41551.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.33cd1826.chunk.js",
+    "static/css/main.e13e222a.chunk.css",
+    "static/js/main.37b5d3fc.chunk.js"
+  ]
+}

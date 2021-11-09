@@ -1,0 +1,51 @@
+.itemBlock{
+    border: 1px solid #ccc;
+    border-radius: 30px;
+    padding: 5px;
+    margin: 10px;
+}
+
+.discountBGColorYellow{
+ background-color: rgba(255, 255, 6, 0.61);
+}
+
+.discountBGColorRed{
+    background-color: rgba(255, 6, 6, 0.61);
+}
+
+.itemBlock img{
+    max-width: 135px;
+    max-height: 130px;
+}
+
+.newProduct{
+    border-radius: 3rem 0rem 3rem 0rem;
+    font-size: .665rem;
+    color: #fff;
+    background-color: #009eff;
+    padding: 0.4rem 0.52rem;
+}
+
+.priceAppearance{
+    font-family: MuseoSans-500,Roboto,sans-serif;
+    color: #009eff;
+}
+
+.textThrough{
+    text-decoration: line-through;
+}
+
+.noThrough{
+    text-decoration: none;
+}
+
+.priceFirm{
+    font-family: MuseoSans-500,Roboto,sans-serif;
+    text-decoration: none;
+    color: #009eff;
+}
+.priceModel{
+    font-family: MuseoSans-500,Roboto,sans-serif;
+    text-decoration: none;
+    color: #333;
+}
